@@ -22,6 +22,13 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/skyface753?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=skyface753&&show_icons=true&theme=radical"/>
+  </a>
+
+</p>
+
 ## 📘 My top open source projects
 
 <!---
