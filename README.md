@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skyface753
 - 👀 I’m interested in web, front- and backend development
-- 🌱 I’m currently learning flutter, mongodb and nodejs
+- 🌱 I’m currently deploying in flutter and nodejs with Docker
 
 <h3 align="center">
   Welcome to Sebastian Jörz's profile!
@@ -22,13 +22,16 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/skyface753?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-<p align="center" >
+<p align="left" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=skyface753&&show_icons=true&theme=radical"/>
   </a>
+  
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyface753&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyface753&layout=compact)](https://github.com/skyface753/github-readme-stats" />
+</a>
 
 
 ## 📘 My top open source projects
