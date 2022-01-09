@@ -26,10 +26,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=skyface753&&show_icons=true&theme=radical"/>
   </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyface753)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 
-  <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@skyface753" frameborder="0"></iframe>
 
 ## 📘 My top open source projects
 
