@@ -26,9 +26,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=skyface753&&show_icons=true&theme=radical"/>
   </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyface753)](https://github.com/anuraghazra/github-readme-stats)
-
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyface753&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📘 My top open source projects
