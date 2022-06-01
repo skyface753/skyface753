@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skyface753
 - 👀 I’m interested in web, front- and backend development
-- 🌱 I’m currently deploying in flutter and nodejs with Docker
+- 🌱 I’m currently deploying in flutter, reactjs, react-native and nodejs with Docker
 
 <h3 align="center">
   Welcome to Sebastian Jörz's profile!
