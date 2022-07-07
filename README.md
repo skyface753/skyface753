@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Leisure+full+stack+developer;Developer+of+SkyManager;Flutter%2C+NodeJS%2C+Java+React+etc.&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Leisure+full+stack+developer;Developer+of+SkyManager;Flutter%2C+NodeJS%2C+Java%2C+React+etc.&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <br/>
