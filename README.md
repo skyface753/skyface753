@@ -1,5 +1,8 @@
 # 💫 About Me:
-- 👋 Hi, I’m @skyface753 (Sebastian)<br>- 👀 I’m interested in web, front- and backend development<br>- 🌱 I’m currently deploying in flutter, reactjs, react-native and nodejs with Docker<br>- 👨‍💻 Dual study programme student in Darmstadt at COUNT+CARE GMBH & CO. KG
+- 👋 Hi, I’m @skyface753 (Sebastian)<br>
+- 👀 I’m interested in web, front- and backend development<br>
+- 🌱 I’m currently deploying in flutter, reactjs, react-native and nodejs with Docker<br>
+- 👨‍💻 Dual study programme student in Darmstadt at COUNT+CARE GMBH & CO. KG
 
 
 ## 🌐 Socials:
