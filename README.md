@@ -16,6 +16,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=skyface753&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=skyface753&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skyface753" alt="skyface753" /></a> </p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
